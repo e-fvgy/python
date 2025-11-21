@@ -1,9 +1,9 @@
 # python3
 
 """
-The adventure begins
+Restart #2
 
-1st App - Basic/Advanced Calcluator \
+1st App - Basic/Advanced Calcluator X
 
 2nd App - Upgraded Calculator X
 
